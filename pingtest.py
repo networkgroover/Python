@@ -1,3 +1,4 @@
+## Simple ping script ran directly on Arista switch
 from EapiClientLib import EapiClient
 import time
 
